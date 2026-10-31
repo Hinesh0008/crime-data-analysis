@@ -1,0 +1,181 @@
+Crime_ID,City,Crime_Type,Date,Area,Time_Period,Record_Status
+CR-0001,Fairview,Fraud,2022-01-12,Market Square,Evening,Under Review
+CR-0002,Easton,Robbery,2022-01-23,Old Town,Morning,Closed
+CR-0003,Riverton,Burglary,2022-02-03,North District,Evening,Reported
+CR-0004,Hillcrest,Assault,2022-02-14,Riverside,Morning,Under Review
+CR-0005,Lakeview,Cybercrime,2022-02-25,Downtown,Evening,Closed
+CR-0006,Oakdale,Vandalism,2022-03-08,Market Square,Afternoon,Reported
+CR-0007,Greenville,Vehicle Theft,2022-03-19,Old Town,Night,Under Review
+CR-0008,Brookfield,Theft,2022-03-30,North District,Afternoon,Reported
+CR-0009,Westhaven,Assault,2022-04-10,Riverside,Night,Under Review
+CR-0010,Maple Grove,Cybercrime,2022-04-21,Downtown,Afternoon,Closed
+CR-0011,Pinecrest,Vandalism,2022-05-02,Market Square,Night,Reported
+CR-0012,Cedar Falls,Vehicle Theft,2022-05-13,Old Town,Evening,Under Review
+CR-0013,Fairview,Theft,2022-05-24,North District,Morning,Closed
+CR-0014,Easton,Fraud,2022-06-04,Riverside,Evening,Reported
+CR-0015,Riverton,Robbery,2022-06-15,Downtown,Morning,Under Review
+CR-0016,Hillcrest,Burglary,2022-06-26,Market Square,Evening,Reported
+CR-0017,Lakeview,Assault,2022-07-07,Old Town,Morning,Under Review
+CR-0018,Oakdale,Theft,2022-07-18,North District,Night,Closed
+CR-0019,Greenville,Fraud,2022-07-29,Riverside,Afternoon,Reported
+CR-0020,Brookfield,Robbery,2022-08-09,Downtown,Night,Under Review
+CR-0021,Westhaven,Burglary,2022-08-20,Market Square,Afternoon,Closed
+CR-0022,Maple Grove,Assault,2022-08-31,Old Town,Night,Reported
+CR-0023,Pinecrest,Cybercrime,2022-09-11,North District,Afternoon,Under Review
+CR-0024,Cedar Falls,Vandalism,2022-09-22,Riverside,Morning,Reported
+CR-0025,Fairview,Vehicle Theft,2022-10-03,Downtown,Evening,Under Review
+CR-0026,Easton,Theft,2022-10-14,Market Square,Morning,Closed
+CR-0027,Riverton,Assault,2022-10-25,Old Town,Evening,Reported
+CR-0028,Hillcrest,Cybercrime,2022-11-05,North District,Morning,Under Review
+CR-0029,Lakeview,Vandalism,2022-11-16,Riverside,Evening,Closed
+CR-0030,Oakdale,Vehicle Theft,2022-11-27,Downtown,Afternoon,Reported
+CR-0031,Greenville,Theft,2022-12-08,Market Square,Night,Under Review
+CR-0032,Brookfield,Fraud,2022-12-19,Old Town,Afternoon,Reported
+CR-0033,Westhaven,Robbery,2022-12-30,North District,Night,Under Review
+CR-0034,Maple Grove,Burglary,2023-01-10,Riverside,Afternoon,Closed
+CR-0035,Pinecrest,Assault,2023-01-21,Downtown,Night,Reported
+CR-0036,Cedar Falls,Theft,2023-02-01,Market Square,Evening,Under Review
+CR-0037,Fairview,Fraud,2023-02-12,Old Town,Morning,Closed
+CR-0038,Easton,Robbery,2023-02-23,North District,Evening,Reported
+CR-0039,Riverton,Burglary,2023-03-06,Riverside,Morning,Under Review
+CR-0040,Hillcrest,Assault,2023-03-17,Downtown,Evening,Reported
+CR-0041,Lakeview,Cybercrime,2023-03-28,Market Square,Morning,Under Review
+CR-0042,Oakdale,Vandalism,2023-04-08,Old Town,Night,Closed
+CR-0043,Greenville,Vehicle Theft,2023-04-19,North District,Afternoon,Reported
+CR-0044,Brookfield,Theft,2023-04-30,Riverside,Night,Under Review
+CR-0045,Westhaven,Assault,2023-05-11,Downtown,Afternoon,Closed
+CR-0046,Maple Grove,Cybercrime,2023-05-22,Market Square,Night,Reported
+CR-0047,Pinecrest,Vandalism,2023-06-02,Old Town,Afternoon,Under Review
+CR-0048,Cedar Falls,Vehicle Theft,2023-06-13,North District,Morning,Reported
+CR-0049,Fairview,Theft,2023-06-24,Riverside,Evening,Under Review
+CR-0050,Easton,Fraud,2023-07-05,Downtown,Morning,Closed
+CR-0051,Riverton,Robbery,2023-07-16,Market Square,Evening,Reported
+CR-0052,Hillcrest,Burglary,2023-07-27,Old Town,Morning,Under Review
+CR-0053,Lakeview,Assault,2023-08-07,North District,Evening,Closed
+CR-0054,Oakdale,Theft,2023-08-18,Riverside,Afternoon,Reported
+CR-0055,Greenville,Fraud,2023-08-29,Downtown,Night,Under Review
+CR-0056,Brookfield,Robbery,2023-09-09,Market Square,Afternoon,Reported
+CR-0057,Westhaven,Burglary,2023-09-20,Old Town,Night,Under Review
+CR-0058,Maple Grove,Assault,2023-10-01,North District,Afternoon,Closed
+CR-0059,Pinecrest,Cybercrime,2023-10-12,Riverside,Night,Reported
+CR-0060,Cedar Falls,Vandalism,2023-10-23,Downtown,Evening,Under Review
+CR-0061,Fairview,Vehicle Theft,2023-11-03,Market Square,Morning,Closed
+CR-0062,Easton,Theft,2023-11-14,Old Town,Evening,Reported
+CR-0063,Riverton,Assault,2023-11-25,North District,Morning,Under Review
+CR-0064,Hillcrest,Cybercrime,2023-12-06,Riverside,Evening,Reported
+CR-0065,Lakeview,Vandalism,2023-12-17,Downtown,Morning,Under Review
+CR-0066,Oakdale,Vehicle Theft,2023-12-28,Market Square,Night,Closed
+CR-0067,Greenville,Theft,2024-01-08,Old Town,Afternoon,Reported
+CR-0068,Brookfield,Fraud,2024-01-19,North District,Night,Under Review
+CR-0069,Westhaven,Robbery,2024-01-30,Riverside,Afternoon,Closed
+CR-0070,Maple Grove,Burglary,2024-02-10,Downtown,Night,Reported
+CR-0071,Pinecrest,Assault,2024-02-21,Market Square,Afternoon,Under Review
+CR-0072,Cedar Falls,Theft,2024-03-03,Old Town,Morning,Reported
+CR-0073,Fairview,Fraud,2024-03-14,North District,Evening,Under Review
+CR-0074,Easton,Robbery,2024-03-25,Riverside,Morning,Closed
+CR-0075,Riverton,Burglary,2024-04-05,Downtown,Evening,Reported
+CR-0076,Hillcrest,Assault,2024-04-16,Market Square,Morning,Under Review
+CR-0077,Lakeview,Cybercrime,2024-04-27,Old Town,Evening,Closed
+CR-0078,Oakdale,Vandalism,2024-05-08,North District,Afternoon,Reported
+CR-0079,Greenville,Vehicle Theft,2024-05-19,Riverside,Night,Under Review
+CR-0080,Brookfield,Theft,2024-05-30,Downtown,Afternoon,Reported
+CR-0081,Westhaven,Assault,2024-06-10,Market Square,Night,Under Review
+CR-0082,Maple Grove,Cybercrime,2024-06-21,Old Town,Afternoon,Closed
+CR-0083,Pinecrest,Vandalism,2024-07-02,North District,Night,Reported
+CR-0084,Cedar Falls,Vehicle Theft,2024-07-13,Riverside,Evening,Under Review
+CR-0085,Fairview,Theft,2024-07-24,Downtown,Morning,Closed
+CR-0086,Easton,Fraud,2024-08-04,Market Square,Evening,Reported
+CR-0087,Riverton,Robbery,2024-08-15,Old Town,Morning,Under Review
+CR-0088,Hillcrest,Burglary,2024-08-26,North District,Evening,Reported
+CR-0089,Lakeview,Assault,2024-09-06,Riverside,Morning,Under Review
+CR-0090,Oakdale,Theft,2024-09-17,Downtown,Night,Closed
+CR-0091,Greenville,Fraud,2024-09-28,Market Square,Afternoon,Reported
+CR-0092,Brookfield,Robbery,2024-10-09,Old Town,Night,Under Review
+CR-0093,Westhaven,Burglary,2024-10-20,North District,Afternoon,Closed
+CR-0094,Maple Grove,Assault,2024-10-31,Riverside,Night,Reported
+CR-0095,Pinecrest,Cybercrime,2024-11-11,Downtown,Afternoon,Under Review
+CR-0096,Cedar Falls,Vandalism,2024-11-22,Market Square,Morning,Reported
+CR-0097,Fairview,Vehicle Theft,2024-12-03,Old Town,Evening,Under Review
+CR-0098,Easton,Theft,2024-12-14,North District,Morning,Closed
+CR-0099,Riverton,Assault,2024-12-25,Riverside,Evening,Reported
+CR-0100,Hillcrest,Cybercrime,2025-01-05,Downtown,Morning,Under Review
+CR-0101,Lakeview,Vandalism,2025-01-16,Market Square,Evening,Closed
+CR-0102,Oakdale,Vehicle Theft,2025-01-27,Old Town,Afternoon,Reported
+CR-0103,Greenville,Theft,2025-02-07,North District,Night,Under Review
+CR-0104,Brookfield,Fraud,2025-02-18,Riverside,Afternoon,Reported
+CR-0105,Westhaven,Robbery,2025-03-01,Downtown,Night,Under Review
+CR-0106,Maple Grove,Burglary,2025-03-12,Market Square,Afternoon,Closed
+CR-0107,Pinecrest,Assault,2025-03-23,Old Town,Night,Reported
+CR-0108,Cedar Falls,Theft,2025-04-03,North District,Evening,Under Review
+CR-0109,Fairview,Fraud,2025-04-14,Riverside,Morning,Closed
+CR-0110,Easton,Robbery,2025-04-25,Downtown,Evening,Reported
+CR-0111,Riverton,Burglary,2025-05-06,Market Square,Morning,Under Review
+CR-0112,Hillcrest,Assault,2025-05-17,Old Town,Evening,Reported
+CR-0113,Lakeview,Cybercrime,2025-05-28,North District,Morning,Under Review
+CR-0114,Oakdale,Vandalism,2025-06-08,Riverside,Night,Closed
+CR-0115,Greenville,Vehicle Theft,2025-06-19,Downtown,Afternoon,Reported
+CR-0116,Brookfield,Theft,2025-06-30,Market Square,Night,Under Review
+CR-0117,Westhaven,Assault,2025-07-11,Old Town,Afternoon,Closed
+CR-0118,Maple Grove,Cybercrime,2025-07-22,North District,Night,Reported
+CR-0119,Pinecrest,Vandalism,2025-08-02,Riverside,Afternoon,Under Review
+CR-0120,Cedar Falls,Vehicle Theft,2025-08-13,Downtown,Morning,Reported
+CR-0121,Fairview,Theft,2025-08-24,Market Square,Evening,Under Review
+CR-0122,Easton,Fraud,2025-09-04,Old Town,Morning,Closed
+CR-0123,Riverton,Robbery,2025-09-15,North District,Evening,Reported
+CR-0124,Hillcrest,Burglary,2025-09-26,Riverside,Morning,Under Review
+CR-0125,Lakeview,Assault,2025-10-07,Downtown,Evening,Closed
+CR-0126,Oakdale,Theft,2025-10-18,Market Square,Afternoon,Reported
+CR-0127,Greenville,Fraud,2025-10-29,Old Town,Night,Under Review
+CR-0128,Brookfield,Robbery,2025-11-09,North District,Afternoon,Reported
+CR-0129,Westhaven,Burglary,2025-11-20,Riverside,Night,Under Review
+CR-0130,Maple Grove,Assault,2025-12-01,Downtown,Afternoon,Closed
+CR-0131,Pinecrest,Cybercrime,2025-12-12,Market Square,Night,Reported
+CR-0132,Cedar Falls,Vandalism,2025-12-23,Old Town,Evening,Under Review
+CR-0133,Fairview,Vehicle Theft,2022-01-03,North District,Morning,Closed
+CR-0134,Easton,Theft,2022-01-14,Riverside,Evening,Reported
+CR-0135,Riverton,Assault,2022-01-25,Downtown,Morning,Under Review
+CR-0136,Hillcrest,Cybercrime,2022-02-05,Market Square,Evening,Reported
+CR-0137,Lakeview,Vandalism,2022-02-16,Old Town,Morning,Under Review
+CR-0138,Oakdale,Vehicle Theft,2022-02-27,North District,Night,Closed
+CR-0139,Greenville,Theft,2022-03-10,Riverside,Afternoon,Reported
+CR-0140,Brookfield,Fraud,2022-03-21,Downtown,Night,Under Review
+CR-0141,Westhaven,Robbery,2022-04-01,Market Square,Afternoon,Closed
+CR-0142,Maple Grove,Burglary,2022-04-12,Old Town,Night,Reported
+CR-0143,Pinecrest,Assault,2022-04-23,North District,Afternoon,Under Review
+CR-0144,Cedar Falls,Theft,2022-05-04,Riverside,Morning,Reported
+CR-0145,Fairview,Fraud,2022-05-15,Downtown,Evening,Under Review
+CR-0146,Easton,Robbery,2022-05-26,Market Square,Morning,Closed
+CR-0147,Riverton,Burglary,2022-06-06,Old Town,Evening,Reported
+CR-0148,Hillcrest,Assault,2022-06-17,North District,Morning,Under Review
+CR-0149,Lakeview,Cybercrime,2022-06-28,Riverside,Evening,Closed
+CR-0150,Oakdale,Vandalism,2022-07-09,Downtown,Afternoon,Reported
+CR-0151,Greenville,Vehicle Theft,2022-07-20,Market Square,Night,Under Review
+CR-0152,Brookfield,Theft,2022-07-31,Old Town,Afternoon,Reported
+CR-0153,Westhaven,Assault,2022-08-11,North District,Night,Under Review
+CR-0154,Maple Grove,Cybercrime,2022-08-22,Riverside,Afternoon,Closed
+CR-0155,Pinecrest,Vandalism,2022-09-02,Downtown,Night,Reported
+CR-0156,Cedar Falls,Vehicle Theft,2022-09-13,Market Square,Evening,Under Review
+CR-0157,Fairview,Theft,2022-09-24,Old Town,Morning,Closed
+CR-0158,Easton,Fraud,2022-10-05,North District,Evening,Reported
+CR-0159,Riverton,Robbery,2022-10-16,Riverside,Morning,Under Review
+CR-0160,Hillcrest,Burglary,2022-10-27,Downtown,Evening,Reported
+CR-0161,Lakeview,Assault,2022-11-07,Market Square,Morning,Under Review
+CR-0162,Oakdale,Theft,2022-11-18,Old Town,Night,Closed
+CR-0163,Greenville,Fraud,2022-11-29,North District,Afternoon,Reported
+CR-0164,Brookfield,Robbery,2022-12-10,Riverside,Night,Under Review
+CR-0165,Westhaven,Burglary,2022-12-21,Downtown,Afternoon,Closed
+CR-0166,Maple Grove,Assault,2023-01-01,Market Square,Night,Reported
+CR-0167,Pinecrest,Cybercrime,2023-01-12,Old Town,Afternoon,Under Review
+CR-0168,Cedar Falls,Vandalism,2023-01-23,North District,Morning,Reported
+CR-0169,Fairview,Vehicle Theft,2023-02-03,Riverside,Evening,Under Review
+CR-0170,Easton,Theft,2023-02-14,Downtown,Morning,Closed
+CR-0171,Riverton,Assault,2023-02-25,Market Square,Evening,Reported
+CR-0172,Hillcrest,Cybercrime,2023-03-08,Old Town,Morning,Under Review
+CR-0173,Lakeview,Vandalism,2023-03-19,North District,Evening,Closed
+CR-0174,Oakdale,Vehicle Theft,2023-03-30,Riverside,Afternoon,Reported
+CR-0175,Greenville,Theft,2023-04-10,Downtown,Night,Under Review
+CR-0176,Brookfield,Fraud,2023-04-21,Market Square,Afternoon,Reported
+CR-0177,Westhaven,Robbery,2023-05-02,Old Town,Night,Under Review
+CR-0178,Maple Grove,Burglary,2023-05-13,North District,Afternoon,Closed
+CR-0179,Pinecrest,Assault,2023-05-24,Riverside,Night,Reported
+CR-0180,Cedar Falls,Theft,2023-06-04,Downtown,Evening,Under Review
